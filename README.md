@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheDarknessLord
 - 👀 I’m interested in ... CODING LARGE SCALE APPS, AI, GAMES, AUTOMATING WEIRD STUFF, PROVIDING SOFTWARE SOLUTIONS FOR SSB'S
 - 🌱 I’m currently learning ... C++, PYTHON, C#, JAVA
-- 💞️ I’m looking to collaborate on ... MY LATEST NUMERIC CAR SIMULATOR 
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... don,t LMAO
 
 <!---
